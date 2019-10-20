@@ -32,7 +32,7 @@ Note: if you don't have tensorflow-gpu or cannot use a discrete GPU then please 
 
 * [Python 3](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe)
 * [Anaconda](https://www.anaconda.com/distribution/#download-section)
-* [Jupyter notebook]```conda install -c conda-forge jupyterlab```
+* Jupyter notebook```conda install -c conda-forge jupyterlab```
 
 Note if you have not install Anaconda, you can still install Jupyter Notebook by ```pip install jupyterlab```
 
