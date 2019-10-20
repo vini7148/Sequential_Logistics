@@ -76,7 +76,7 @@ Note: if you are not  using tensorflow-gpu, you might want to decrease the numbe
 For the last epoch the loss, mean absolute error, etc. is
 ```
    loss     mean_absolute_error mean_squared_error val_loss val_mean_absolute_error val_mean_squared_error epoch
-99 0.183517 0.366432            0.183517           0.186422 0.363392                        0.186422               99
+99 0.183517 0.366432            0.183517           0.186422 0.363392               0.186422               99
 ```
 
 The confusion matrix for the test dataset("Adults_Test.csv") is as follows
