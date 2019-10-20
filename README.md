@@ -1,6 +1,6 @@
 # Sequential_Logistics
 
-A sequntial logistics model for predicting the label, which is salary of differents adults based on their 'age','workclass','education',etc.
+A sequential logistics model for predicting the label, which is salary of differents adults based on their 'age','workclass','education',etc.
 
 ## Getting started
 
